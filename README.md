@@ -143,8 +143,8 @@ Contributions are welcome!
 **Sumit Kumar**
 Made with ❤️ while building real-world full-stack projects.
 
-* GitHub: [https://github.com/your-username](https://github.com/your-username)
-* LinkedIn: [https://linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+* GitHub: [https://github.com/your-username](https://github.com/sumitkudale21)
+* LinkedIn: [https://linkedin.com/in/your-profile](https://linkedin.com/in/sumitkudale)
 
 ---
 
